@@ -6,7 +6,7 @@ Support for Chamsys Remote Ethernet Protocal (CREP) and Chamsys Remote Protocol 
 
 Add this line to your application's Gemfile:
 
-    gem 'crep', github: 'digitalfx/crep'
+    gem 'crep', github: 'pixlwave/crep'
 
 And then execute:
 

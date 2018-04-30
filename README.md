@@ -1,6 +1,6 @@
 # crep
 
-Support for Chamsys Remote Ethernet Protocal (CREP) and Chamsys Remote Protocol (CRP) for RubyMotion
+Support for Chamsys Remote Ethernet Protocol (CREP) and Chamsys Remote Protocol (CRP) for RubyMotion
 
 ## Installation
 
